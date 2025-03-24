@@ -11,7 +11,7 @@
 
 ## 📂 Dataset  
 The model uses the **Multi30k** dataset, which consists of parallel sentences in German and English.  
-- Training data: `training.tar.gz`  
-- Validation data: `validation.tar.gz`  
+- **Training Data:** [training.tar.gz](https://github.com/neychev/small_DL_repo/blob/master/datasets/Multi30k/training.tar.gz)  
+- **Validation Data:** [validation.tar.gz](https://github.com/neychev/small_DL_repo/blob/master/datasets/Multi30k/validation.tar.gz)   
 
 ---
